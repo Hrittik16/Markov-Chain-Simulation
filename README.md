@@ -7,4 +7,4 @@
 ![Markov Transition Graph](assets/markov_transition_graph.png)
 
 ### Youtube Tutorial Link
-![An Introduction to Markov Chains with Python](https://www.youtube.com/watch?v=WT6jI8UgROI)
+[An Introduction to Markov Chains with Python](https://www.youtube.com/watch?v=WT6jI8UgROI)
